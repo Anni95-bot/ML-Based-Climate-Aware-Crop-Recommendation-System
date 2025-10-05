@@ -1,0 +1,506 @@
+State,Season,Temperature,Rainfall,N,P,K,PH,Crop
+Uttar Pradesh,Kharif,32.0,850.0,90,40,60,6.8,Rice
+Uttar Pradesh,Kharif,31.5,720.0,85,38,58,6.7,Maize
+Uttar Pradesh,Kharif,30.0,680.0,50,30,40,6.6,Arhar
+Uttar Pradesh,Kharif,29.5,650.0,45,28,38,6.5,Moong
+Uttar Pradesh,Kharif,29.0,640.0,42,26,36,6.5,Urad
+Uttar Pradesh,Kharif,30.5,700.0,60,35,45,6.6,Groundnut
+Uttar Pradesh,Kharif,31.0,710.0,65,36,48,6.6,Soybean
+Uttar Pradesh,Kharif,32.5,730.0,75,38,55,6.7,Cotton
+Uttar Pradesh,Kharif,30.0,690.0,55,32,42,6.6,Bajra
+Uttar Pradesh,Kharif,30.5,670.0,58,33,44,6.6,Jowar
+Uttar Pradesh,Rabi,22.0,180.0,80,35,55,6.5,Wheat
+Uttar Pradesh,Rabi,21.5,160.0,72,32,50,6.4,Barley
+Uttar Pradesh,Rabi,22.5,170.0,65,30,48,6.4,Mustard
+Uttar Pradesh,Rabi,21.0,150.0,60,28,45,6.3,Gram
+Uttar Pradesh,Rabi,20.5,140.0,55,26,42,6.3,Peas
+Uttar Pradesh,Rabi,23.0,190.0,90,40,60,6.5,Potato
+Uttar Pradesh,Rabi,22.5,185.0,85,38,58,6.5,Onion
+Uttar Pradesh,Rabi,21.0,160.0,62,30,48,6.4,Lentil
+Uttar Pradesh,Rabi,22.0,170.0,68,32,50,6.4,Rapeseed
+Uttar Pradesh,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Uttar Pradesh,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Uttar Pradesh,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Uttar Pradesh,Zaid,28.5,88.0,66,31,51,6.5,Bottle Gourd
+Uttar Pradesh,Zaid,29.0,92.0,64,30,49,6.5,Bitter Gourd
+Uttar Pradesh,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Uttar Pradesh,Zaid,28.5,89.0,60,28,46,6.5,Okra
+Punjab,Kharif,33.0,780.0,88,42,62,6.7,Rice
+Punjab,Kharif,32.5,620.0,75,36,55,6.6,Cotton
+Punjab,Kharif,31.5,640.0,82,38,58,6.6,Maize
+Punjab,Kharif,30.5,610.0,65,34,50,6.5,Groundnut
+Punjab,Kharif,31.0,600.0,58,32,48,6.5,Bajra
+Punjab,Rabi,23.0,190.0,78,34,54,6.5,Wheat
+Punjab,Rabi,22.5,180.0,72,32,50,6.4,Barley
+Punjab,Rabi,22.0,175.0,65,30,48,6.4,Mustard
+Punjab,Rabi,21.5,170.0,60,28,45,6.3,Gram
+Punjab,Rabi,21.0,165.0,55,26,42,6.3,Peas
+Punjab,Zaid,29.0,90.0,68,33,51,6.5,Watermelon
+Punjab,Zaid,29.5,92.0,70,34,52,6.5,Muskmelon
+Punjab,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Punjab,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Haryana,Kharif,32.0,620.0,90,40,60,6.8,Rice
+Haryana,Kharif,33.0,580.0,75,36,55,6.7,Cotton
+Haryana,Kharif,31.5,600.0,82,38,58,6.6,Maize
+Haryana,Kharif,30.5,590.0,65,34,50,6.5,Groundnut
+Haryana,Kharif,31.0,610.0,58,32,48,6.5,Bajra
+Haryana,Rabi,22.5,180.0,80,35,55,6.5,Wheat
+Haryana,Rabi,22.0,175.0,72,32,50,6.4,Barley
+Haryana,Rabi,21.5,170.0,65,30,48,6.4,Mustard
+Haryana,Rabi,21.0,165.0,60,28,45,6.3,Gram
+Haryana,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Haryana,Zaid,29.0,90.0,68,33,51,6.5,Watermelon
+Haryana,Zaid,29.5,92.0,70,34,52,6.5,Muskmelon
+Haryana,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Haryana,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Madhya Pradesh,Kharif,32.0,820.0,90,40,60,6.8,Rice
+Madhya Pradesh,Kharif,31.5,780.0,85,38,58,6.7,Maize
+Madhya Pradesh,Kharif,30.5,760.0,88,42,62,6.7,Soybean
+Madhya Pradesh,Kharif,32.5,790.0,75,36,55,6.6,Cotton
+Madhya Pradesh,Kharif,30.0,740.0,65,34,50,6.6,Groundnut
+Madhya Pradesh,Kharif,30.5,720.0,58,32,48,6.5,Bajra
+Madhya Pradesh,Kharif,31.0,700.0,60,30,46,6.5,Jowar
+Madhya Pradesh,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Madhya Pradesh,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Madhya Pradesh,Rabi,21.0,170.0,60,28,45,6.3,Gram
+Madhya Pradesh,Rabi,22.5,175.0,65,30,48,6.4,Mustard
+Madhya Pradesh,Rabi,21.0,165.0,55,26,42,6.3,Peas
+Madhya Pradesh,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+Madhya Pradesh,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Madhya Pradesh,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Madhya Pradesh,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Madhya Pradesh,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Rajasthan,Kharif,30.5,540.0,65,34,50,6.5,Bajra
+Rajasthan,Kharif,32.0,580.0,75,36,55,6.6,Cotton
+Rajasthan,Kharif,31.5,560.0,82,38,58,6.6,Maize
+Rajasthan,Kharif,30.0,550.0,60,30,46,6.5,Groundnut
+Rajasthan,Kharif,30.5,530.0,58,32,48,6.5,Jowar
+Rajasthan,Rabi,22.0,170.0,80,35,55,6.5,Wheat
+Rajasthan,Rabi,21.5,160.0,72,32,50,6.4,Barley
+Rajasthan,Rabi,21.0,150.0,60,28,45,6.3,Mustard
+Rajasthan,Rabi,22.5,165.0,65,30,48,6.4,Gram
+Rajasthan,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Rajasthan,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+Rajasthan,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Rajasthan,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Rajasthan,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Rajasthan,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Maharashtra,Kharif,31.5,780.0,88,42,62,6.7,Rice
+Maharashtra,Kharif,32.0,820.0,90,40,60,6.8,Cotton
+Maharashtra,Kharif,30.5,760.0,85,38,58,6.7,Soybean
+Maharashtra,Kharif,30.0,740.0,65,34,50,6.6,Groundnut
+Maharashtra,Kharif,31.0,700.0,60,30,46,6.5,Maize
+Maharashtra,Kharif,32.5,850.0,120,50,80,6.8,Sugarcane
+Maharashtra,Kharif,30.5,720.0,58,32,48,6.5,Jowar
+Maharashtra,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Maharashtra,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Maharashtra,Rabi,21.0,170.0,60,28,45,6.3,Gram
+Maharashtra,Rabi,22.5,175.0,65,30,48,6.4,Mustard
+Maharashtra,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Maharashtra,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+Maharashtra,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Maharashtra,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Maharashtra,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Maharashtra,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Maharashtra,Zaid,28.5,89.0,60,28,46,6.5,Okra
+Gujarat,Kharif,32.0,780.0,88,42,62,6.7,Cotton
+Gujarat,Kharif,30.5,740.0,65,34,50,6.6,Groundnut
+Gujarat,Kharif,31.0,760.0,90,40,60,6.8,Rice
+Gujarat,Kharif,31.5,720.0,82,38,58,6.6,Maize
+Gujarat,Kharif,30.5,700.0,55,32,42,6.6,Bajra
+Gujarat,Rabi,22.0,180.0,80,35,55,6.5,Wheat
+Gujarat,Rabi,21.5,170.0,72,32,50,6.4,Barley
+Gujarat,Rabi,21.0,160.0,60,28,45,6.3,Mustard
+Gujarat,Rabi,22.5,165.0,65,30,48,6.4,Gram
+Gujarat,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Gujarat,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+Gujarat,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Gujarat,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Gujarat,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Gujarat,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Bihar,Kharif,32.0,880.0,90,40,60,6.8,Rice
+Bihar,Kharif,31.5,820.0,85,38,58,6.7,Maize
+Bihar,Kharif,30.0,780.0,50,30,40,6.6,Arhar
+Bihar,Kharif,30.5,760.0,60,35,45,6.6,Groundnut
+Bihar,Kharif,29.5,740.0,55,32,42,6.5,Jute
+Bihar,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Bihar,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Bihar,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+Bihar,Rabi,22.5,175.0,65,30,48,6.4,Gram
+Bihar,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Bihar,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+Bihar,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Bihar,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Bihar,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Bihar,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+West Bengal,Kharif,32.5,980.0,90,40,60,6.8,Rice
+West Bengal,Kharif,31.0,920.0,85,38,58,6.7,Maize
+West Bengal,Kharif,30.5,950.0,55,32,42,6.6,Jute
+West Bengal,Kharif,30.0,880.0,60,35,45,6.6,Groundnut
+West Bengal,Kharif,32.0,1000.0,120,50,80,6.8,Sugarcane
+West Bengal,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+West Bengal,Rabi,21.5,180.0,72,32,50,6.4,Barley
+West Bengal,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+West Bengal,Rabi,22.5,175.0,65,30,48,6.4,Gram
+West Bengal,Rabi,21.0,160.0,55,26,42,6.3,Peas
+West Bengal,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+West Bengal,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+West Bengal,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+West Bengal,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+West Bengal,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Odisha,Kharif,32.0,1070.0,90,40,60,6.8,Rice
+Odisha,Kharif,31.0,1020.0,85,38,58,6.7,Maize
+Odisha,Kharif,30.5,980.0,60,35,45,6.6,Groundnut
+Odisha,Kharif,32.5,990.0,75,36,55,6.6,Cotton
+Odisha,Kharif,30.0,960.0,55,32,42,6.6,Jute
+Odisha,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Odisha,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Odisha,Rabi,21.0,170.0,60,28,45,6.3,Gram
+Odisha,Rabi,22.5,175.0,65,30,48,6.4,Mustard
+Odisha,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Odisha,Rabi,21.5,170.0,62,30,48,6.4,Lentil
+Odisha,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Odisha,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Odisha,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Odisha,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Assam,Kharif,31.5,2100.0,90,40,60,6.8,Rice
+Assam,Kharif,30.5,1950.0,85,38,58,6.7,Maize
+Assam,Kharif,30.0,2000.0,55,32,42,6.6,Jute
+Assam,Kharif,29.5,1900.0,60,35,45,6.6,Groundnut
+Assam,Kharif,32.0,2200.0,120,50,80,6.8,Sugarcane
+Assam,Kharif,28.0,1800.0,40,20,30,5.5,Tea
+Assam,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Assam,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Assam,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+Assam,Rabi,22.5,175.0,65,30,48,6.4,Gram
+Assam,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Assam,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Assam,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Assam,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Assam,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Kerala,Kharif,30.5,2100.0,90,40,60,5.8,Rice
+Kerala,Kharif,29.0,2000.0,40,20,50,5.5,Coconut
+Kerala,Kharif,30.0,1900.0,60,35,45,5.6,Groundnut
+Kerala,Kharif,31.0,1950.0,55,30,60,5.5,Banana
+Kerala,Kharif,30.5,1850.0,50,25,40,5.4,Tapioca
+Kerala,Rabi,28.5,180.0,85,38,58,5.8,Rice
+Kerala,Rabi,27.0,160.0,35,18,48,5.5,Coconut
+Kerala,Rabi,28.0,170.0,50,28,55,5.5,Banana
+Kerala,Zaid,29.0,95.0,70,32,52,5.8,Watermelon
+Kerala,Zaid,29.5,90.0,68,33,51,5.7,Muskmelon
+Kerala,Zaid,28.5,88.0,66,31,50,5.7,Cucumber
+Kerala,Zaid,29.5,93.0,72,34,54,5.8,Tomato
+Kerala,Zaid,28.5,89.0,60,28,46,5.7,Okra
+Tamil Nadu,Kharif,32.0,780.0,90,40,60,6.8,Rice
+Tamil Nadu,Kharif,31.0,740.0,65,34,50,6.6,Groundnut
+Tamil Nadu,Kharif,32.5,790.0,75,36,55,6.6,Cotton
+Tamil Nadu,Kharif,31.5,720.0,82,38,58,6.6,Maize
+Tamil Nadu,Kharif,33.0,850.0,120,50,80,6.8,Sugarcane
+Tamil Nadu,Kharif,30.5,760.0,55,30,60,6.5,Banana
+Tamil Nadu,Kharif,30.0,740.0,50,25,40,6.5,Tapioca
+Tamil Nadu,Rabi,28.5,180.0,85,38,58,6.6,Rice
+Tamil Nadu,Rabi,27.0,160.0,60,30,50,6.5,Groundnut
+Tamil Nadu,Rabi,28.0,170.0,72,32,50,6.5,Cotton
+Tamil Nadu,Rabi,27.5,165.0,55,28,45,6.5,Banana
+Tamil Nadu,Zaid,29.0,95.0,70,32,52,6.6,Watermelon
+Tamil Nadu,Zaid,29.5,90.0,68,33,51,6.5,Muskmelon
+Tamil Nadu,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Tamil Nadu,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Tamil Nadu,Zaid,28.5,89.0,60,28,46,6.5,Okra
+Karnataka,Kharif,31.5,780.0,88,42,62,6.7,Rice
+Karnataka,Kharif,31.0,760.0,82,38,58,6.6,Maize
+Karnataka,Kharif,30.5,740.0,65,34,50,6.6,Groundnut
+Karnataka,Kharif,32.0,790.0,75,36,55,6.6,Cotton
+Karnataka,Kharif,33.0,850.0,120,50,80,6.8,Sugarcane
+Karnataka,Kharif,30.0,720.0,60,30,46,6.5,Ragi
+Karnataka,Kharif,30.5,700.0,58,32,48,6.5,Jowar
+Karnataka,Rabi,22.0,190.0,80,35,55,6.5,Rice
+Karnataka,Rabi,21.5,180.0,72,32,50,6.4,Maize
+Karnataka,Rabi,21.0,170.0,60,28,45,6.3,Groundnut
+Karnataka,Rabi,22.5,175.0,65,30,48,6.4,Cotton
+Karnataka,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Karnataka,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Karnataka,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Karnataka,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Karnataka,Zaid,28.5,89.0,60,28,46,6.5,Okra
+Andhra Pradesh,Kharif,32.0,980.0,90,40,60,6.8,Rice
+Andhra Pradesh,Kharif,33.0,920.0,75,36,55,6.7,Cotton
+Andhra Pradesh,Kharif,31.5,900.0,65,34,50,6.6,Groundnut
+Andhra Pradesh,Kharif,30.5,880.0,82,38,58,6.6,Maize
+Andhra Pradesh,Kharif,34.0,1050.0,120,50,80,6.8,Sugarcane
+Andhra Pradesh,Kharif,31.0,940.0,55,30,60,6.5,Banana
+Andhra Pradesh,Rabi,28.5,180.0,85,38,58,6.6,Rice
+Andhra Pradesh,Rabi,27.0,160.0,72,32,50,6.5,Cotton
+Andhra Pradesh,Rabi,28.0,170.0,60,30,50,6.5,Groundnut
+Andhra Pradesh,Rabi,27.5,165.0,55,28,45,6.5,Banana
+Andhra Pradesh,Zaid,29.0,95.0,70,32,52,6.6,Watermelon
+Andhra Pradesh,Zaid,29.5,90.0,68,33,51,6.5,Muskmelon
+Andhra Pradesh,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Andhra Pradesh,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Andhra Pradesh,Zaid,28.5,89.0,60,28,46,6.5,Okra
+Telangana,Kharif,32.0,950.0,90,40,60,6.8,Rice
+Telangana,Kharif,33.0,910.0,75,36,55,6.7,Cotton
+Telangana,Kharif,31.5,890.0,65,34,50,6.6,Groundnut
+Telangana,Kharif,30.5,870.0,82,38,58,6.6,Maize
+Telangana,Kharif,34.0,1020.0,120,50,80,6.8,Sugarcane
+Telangana,Kharif,31.0,880.0,88,42,62,6.7,Soybean
+Telangana,Rabi,28.5,180.0,85,38,58,6.6,Rice
+Telangana,Rabi,27.0,160.0,72,32,50,6.5,Cotton
+Telangana,Rabi,28.0,170.0,60,30,50,6.5,Groundnut
+Telangana,Zaid,29.0,95.0,70,32,52,6.6,Watermelon
+Telangana,Zaid,29.5,90.0,68,33,51,6.5,Muskmelon
+Telangana,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Telangana,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Telangana,Zaid,28.5,89.0,60,28,46,6.5,Okra
+Chhattisgarh,Kharif,32.0,1100.0,90,40,60,6.8,Rice
+Chhattisgarh,Kharif,31.5,1050.0,85,38,58,6.7,Maize
+Chhattisgarh,Kharif,30.5,1020.0,88,42,62,6.7,Soybean
+Chhattisgarh,Kharif,30.0,980.0,65,34,50,6.6,Groundnut
+Chhattisgarh,Kharif,30.5,960.0,58,32,48,6.5,Jowar
+Chhattisgarh,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Chhattisgarh,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Chhattisgarh,Rabi,21.0,170.0,60,28,45,6.3,Gram
+Chhattisgarh,Rabi,22.5,175.0,65,30,48,6.4,Mustard
+Chhattisgarh,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Chhattisgarh,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Chhattisgarh,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Chhattisgarh,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Chhattisgarh,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Jharkhand,Kharif,31.5,1100.0,90,40,60,6.5,Rice
+Jharkhand,Kharif,30.5,1050.0,85,38,58,6.4,Maize
+Jharkhand,Kharif,30.0,1020.0,65,34,50,6.3,Groundnut
+Jharkhand,Kharif,30.5,980.0,55,32,42,6.3,Jute
+Jharkhand,Kharif,29.5,960.0,50,30,40,6.2,Arhar
+Jharkhand,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Jharkhand,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Jharkhand,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+Jharkhand,Rabi,22.5,175.0,65,30,48,6.4,Gram
+Jharkhand,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Jharkhand,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Jharkhand,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Jharkhand,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Jharkhand,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Uttarakhand,Kharif,30.5,950.0,90,40,60,6.6,Rice
+Uttarakhand,Kharif,29.5,900.0,85,38,58,6.5,Maize
+Uttarakhand,Kharif,29.0,880.0,65,34,50,6.4,Groundnut
+Uttarakhand,Kharif,28.5,860.0,60,30,46,6.3,Ragi
+Uttarakhand,Kharif,30.0,890.0,88,42,62,6.5,Soybean
+Uttarakhand,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Uttarakhand,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Uttarakhand,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+Uttarakhand,Rabi,22.5,175.0,65,30,48,6.4,Gram
+Uttarakhand,Rabi,21.0,160.0,55,26,42,6.3,Peas
+Uttarakhand,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Uttarakhand,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Uttarakhand,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Uttarakhand,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Himachal Pradesh,Kharif,28.5,850.0,90,40,60,6.2,Rice
+Himachal Pradesh,Kharif,27.5,820.0,85,38,58,6.1,Maize
+Himachal Pradesh,Kharif,27.0,800.0,65,34,50,6.0,Groundnut
+Himachal Pradesh,Kharif,22.0,780.0,40,20,30,5.5,Apple
+Himachal Pradesh,Kharif,23.0,760.0,35,18,28,5.6,Peach
+Himachal Pradesh,Kharif,23.5,740.0,30,16,26,5.6,Plum
+Himachal Pradesh,Rabi,20.5,180.0,80,35,55,6.3,Wheat
+Himachal Pradesh,Rabi,20.0,170.0,72,32,50,6.2,Barley
+Himachal Pradesh,Rabi,19.5,160.0,60,28,45,6.1,Mustard
+Himachal Pradesh,Rabi,21.0,175.0,65,30,48,6.2,Gram
+Himachal Pradesh,Rabi,20.0,160.0,55,26,42,6.1,Peas
+Himachal Pradesh,Zaid,27.5,95.0,70,32,52,6.4,Watermelon
+Himachal Pradesh,Zaid,28.0,90.0,68,33,51,6.3,Muskmelon
+Himachal Pradesh,Zaid,27.0,85.0,65,30,50,6.3,Cucumber
+Himachal Pradesh,Zaid,28.5,93.0,72,34,54,6.4,Tomato
+Jammu & Kashmir,Kharif,28.5,850.0,90,40,60,6.2,Rice
+Jammu & Kashmir,Kharif,27.5,820.0,85,38,58,6.1,Maize
+Jammu & Kashmir,Kharif,27.0,800.0,65,34,50,6.0,Groundnut
+Jammu & Kashmir,Kharif,22.0,780.0,40,20,30,5.5,Apple
+Jammu & Kashmir,Kharif,23.0,760.0,35,18,28,5.6,Pear
+Jammu & Kashmir,Kharif,23.5,740.0,30,16,26,5.6,Plum
+Jammu & Kashmir,Rabi,20.5,180.0,80,35,55,6.3,Wheat
+Jammu & Kashmir,Rabi,20.0,170.0,72,32,50,6.2,Barley
+Jammu & Kashmir,Rabi,19.5,160.0,60,28,45,6.1,Mustard
+Jammu & Kashmir,Rabi,21.0,175.0,65,30,48,6.2,Gram
+Jammu & Kashmir,Rabi,20.0,160.0,55,26,42,6.1,Peas
+Jammu & Kashmir,Zaid,27.5,95.0,70,32,52,6.4,Watermelon
+Jammu & Kashmir,Zaid,28.0,90.0,68,33,51,6.3,Muskmelon
+Jammu & Kashmir,Zaid,27.0,85.0,65,30,50,6.3,Cucumber
+Jammu & Kashmir,Zaid,28.5,93.0,72,34,54,6.4,Tomato
+Arunachal Pradesh,Kharif,30.5,1950.0,90,40,60,5.8,Rice
+Arunachal Pradesh,Kharif,29.5,1900.0,85,38,58,5.7,Maize
+Arunachal Pradesh,Kharif,29.0,1850.0,65,34,50,5.6,Groundnut
+Arunachal Pradesh,Kharif,28.5,1800.0,60,30,46,5.5,Millet
+Arunachal Pradesh,Kharif,30.0,1880.0,88,42,62,5.7,Soybean
+Arunachal Pradesh,Rabi,22.0,190.0,80,35,55,5.9,Wheat
+Arunachal Pradesh,Rabi,21.5,180.0,72,32,50,5.8,Barley
+Arunachal Pradesh,Rabi,21.0,170.0,60,28,45,5.7,Mustard
+Arunachal Pradesh,Rabi,22.5,175.0,65,30,48,5.8,Gram
+Arunachal Pradesh,Rabi,21.0,160.0,55,26,42,5.7,Peas
+Arunachal Pradesh,Zaid,28.5,95.0,70,32,52,5.9,Watermelon
+Arunachal Pradesh,Zaid,29.0,90.0,68,33,51,5.8,Muskmelon
+Arunachal Pradesh,Zaid,28.0,85.0,65,30,50,5.8,Cucumber
+Arunachal Pradesh,Zaid,29.5,93.0,72,34,54,5.9,Tomato
+Nagaland,Kharif,30.5,1800.0,90,40,60,5.9,Rice
+Nagaland,Kharif,29.5,1750.0,85,38,58,5.8,Maize
+Nagaland,Kharif,29.0,1700.0,65,34,50,5.7,Groundnut
+Nagaland,Kharif,28.5,1650.0,60,30,46,5.6,Millet
+Nagaland,Rabi,22.0,190.0,80,35,55,5.9,Wheat
+Nagaland,Rabi,21.5,180.0,72,32,50,5.8,Barley
+Nagaland,Rabi,21.0,170.0,60,28,45,5.7,Mustard
+Nagaland,Rabi,22.5,175.0,65,30,48,5.8,Gram
+Nagaland,Rabi,21.0,160.0,55,26,42,5.7,Peas
+Nagaland,Zaid,28.5,95.0,70,32,52,5.9,Watermelon
+Nagaland,Zaid,29.0,90.0,68,33,51,5.8,Muskmelon
+Nagaland,Zaid,28.0,85.0,65,30,50,5.8,Cucumber
+Nagaland,Zaid,29.5,93.0,72,34,54,5.9,Tomato
+Manipur,Kharif,30.5,1800.0,90,40,60,5.9,Rice
+Manipur,Kharif,29.5,1750.0,85,38,58,5.8,Maize
+Manipur,Kharif,29.0,1700.0,65,34,50,5.7,Groundnut
+Manipur,Kharif,28.5,1650.0,60,30,46,5.6,Millet
+Manipur,Rabi,22.0,190.0,80,35,55,5.9,Wheat
+Manipur,Rabi,21.5,180.0,72,32,50,5.8,Barley
+Manipur,Rabi,21.0,170.0,60,28,45,5.7,Mustard
+Manipur,Rabi,22.5,175.0,65,30,48,5.8,Gram
+Manipur,Rabi,21.0,160.0,55,26,42,5.7,Peas
+Manipur,Zaid,28.5,95.0,70,32,52,5.9,Watermelon
+Manipur,Zaid,29.0,90.0,68,33,51,5.8,Muskmelon
+Manipur,Zaid,28.0,85.0,65,30,50,5.8,Cucumber
+Manipur,Zaid,29.5,93.0,72,34,54,5.9,Tomato
+Mizoram,Kharif,30.5,2200.0,90,40,60,5.8,Rice
+Mizoram,Kharif,29.5,2150.0,85,38,58,5.7,Maize
+Mizoram,Kharif,29.0,2100.0,65,34,50,5.6,Groundnut
+Mizoram,Kharif,28.5,2050.0,60,30,46,5.5,Millet
+Mizoram,Rabi,22.0,190.0,80,35,55,5.9,Wheat
+Mizoram,Rabi,21.5,180.0,72,32,50,5.8,Barley
+Mizoram,Rabi,21.0,170.0,60,28,45,5.7,Mustard
+Mizoram,Rabi,22.5,175.0,65,30,48,5.8,Gram
+Mizoram,Rabi,21.0,160.0,55,26,42,5.7,Peas
+Mizoram,Zaid,28.5,95.0,70,32,52,5.9,Watermelon
+Mizoram,Zaid,29.0,90.0,68,33,51,5.8,Muskmelon
+Mizoram,Zaid,28.0,85.0,65,30,50,5.8,Cucumber
+Mizoram,Zaid,29.5,93.0,72,34,54,5.9,Tomato
+Tripura,Kharif,31.5,2200.0,90,40,60,6.0,Rice
+Tripura,Kharif,30.5,2150.0,85,38,58,5.9,Maize
+Tripura,Kharif,30.0,2100.0,65,34,50,5.8,Groundnut
+Tripura,Kharif,29.5,2050.0,55,32,42,5.8,Jute
+Tripura,Kharif,32.0,2300.0,120,50,80,6.1,Sugarcane
+Tripura,Rabi,22.0,190.0,80,35,55,6.0,Wheat
+Tripura,Rabi,21.5,180.0,72,32,50,5.9,Barley
+Tripura,Rabi,21.0,170.0,60,28,45,5.8,Mustard
+Tripura,Rabi,22.5,175.0,65,30,48,5.9,Gram
+Tripura,Rabi,21.0,160.0,55,26,42,5.8,Peas
+Tripura,Zaid,28.5,95.0,70,32,52,6.0,Watermelon
+Tripura,Zaid,29.0,90.0,68,33,51,5.9,Muskmelon
+Tripura,Zaid,28.0,85.0,65,30,50,5.9,Cucumber
+Tripura,Zaid,29.5,93.0,72,34,54,6.0,Tomato
+Meghalaya,Kharif,30.5,2200.0,90,40,60,5.8,Rice
+Meghalaya,Kharif,29.5,2150.0,85,38,58,5.7,Maize
+Meghalaya,Kharif,29.0,2100.0,65,34,50,5.6,Groundnut
+Meghalaya,Kharif,28.5,2050.0,55,32,42,5.6,Jute
+Meghalaya,Rabi,22.0,190.0,80,35,55,5.9,Wheat
+Meghalaya,Rabi,21.5,180.0,72,32,50,5.8,Barley
+Meghalaya,Rabi,21.0,170.0,60,28,45,5.7,Mustard
+Meghalaya,Rabi,22.5,175.0,65,30,48,5.8,Gram
+Meghalaya,Rabi,21.0,160.0,55,26,42,5.7,Peas
+Meghalaya,Zaid,28.5,95.0,70,32,52,5.9,Watermelon
+Meghalaya,Zaid,29.0,90.0,68,33,51,5.8,Muskmelon
+Meghalaya,Zaid,28.0,85.0,65,30,50,5.8,Cucumber
+Meghalaya,Zaid,29.5,93.0,72,34,54,5.9,Tomato
+Sikkim,Kharif,28.5,1800.0,90,40,60,5.5,Rice
+Sikkim,Kharif,27.5,1750.0,85,38,58,5.4,Maize
+Sikkim,Kharif,27.0,1700.0,65,34,50,5.3,Groundnut
+Sikkim,Kharif,26.5,1650.0,60,30,46,5.2,Millet
+Sikkim,Rabi,21.5,180.0,80,35,55,5.6,Wheat
+Sikkim,Rabi,21.0,170.0,72,32,50,5.5,Barley
+Sikkim,Rabi,20.5,160.0,60,28,45,5.4,Mustard
+Sikkim,Rabi,22.0,175.0,65,30,48,5.5,Gram
+Sikkim,Rabi,21.0,160.0,55,26,42,5.4,Peas
+Sikkim,Zaid,27.5,95.0,70,32,52,5.6,Watermelon
+Sikkim,Zaid,28.0,90.0,68,33,51,5.5,Muskmelon
+Sikkim,Zaid,27.0,85.0,65,30,50,5.5,Cucumber
+Sikkim,Zaid,28.5,93.0,72,34,54,5.6,Tomato
+Chandigarh,Kharif,32.0,780.0,90,40,60,6.8,Maize
+Chandigarh,Kharif,33.0,800.0,88,42,62,6.7,Rice
+Chandigarh,Kharif,32.5,790.0,75,36,55,6.6,Cotton
+Chandigarh,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Chandigarh,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Chandigarh,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+Chandigarh,Rabi,22.5,175.0,65,30,48,6.4,Gram
+Chandigarh,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Chandigarh,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Chandigarh,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Chandigarh,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Dadra & Nagar Haveli and Daman & Diu,Kharif,31.5,1800.0,90,40,60,6.5,Rice
+Dadra & Nagar Haveli and Daman & Diu,Kharif,30.5,1750.0,65,34,50,6.4,Groundnut
+Dadra & Nagar Haveli and Daman & Diu,Kharif,32.0,1850.0,75,36,55,6.6,Cotton
+Dadra & Nagar Haveli and Daman & Diu,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Dadra & Nagar Haveli and Daman & Diu,Rabi,21.0,170.0,65,30,48,6.4,Gram
+Dadra & Nagar Haveli and Daman & Diu,Rabi,21.5,180.0,60,28,45,6.4,Mustard
+Dadra & Nagar Haveli and Daman & Diu,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Dadra & Nagar Haveli and Daman & Diu,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Dadra & Nagar Haveli and Daman & Diu,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Dadra & Nagar Haveli and Daman & Diu,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Delhi,Kharif,32.0,780.0,88,42,62,6.7,Maize
+Delhi,Kharif,33.0,800.0,90,40,60,6.8,Rice
+Delhi,Kharif,32.5,790.0,75,36,55,6.6,Cotton
+Delhi,Rabi,22.0,190.0,80,35,55,6.5,Wheat
+Delhi,Rabi,21.5,180.0,72,32,50,6.4,Barley
+Delhi,Rabi,21.0,170.0,60,28,45,6.3,Mustard
+Delhi,Rabi,22.5,175.0,65,30,48,6.4,Gram
+Delhi,Zaid,28.5,95.0,70,32,52,6.6,Watermelon
+Delhi,Zaid,29.0,90.0,68,33,51,6.5,Muskmelon
+Delhi,Zaid,28.0,85.0,65,30,50,6.5,Cucumber
+Delhi,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Ladakh,Kharif,22.0,150.0,60,28,45,6.2,Barley
+Ladakh,Kharif,23.0,160.0,85,38,58,6.3,Maize
+Ladakh,Kharif,21.5,140.0,55,26,42,6.1,Peas
+Ladakh,Kharif,20.0,130.0,90,40,60,6.3,Potato
+Ladakh,Rabi,18.5,120.0,80,35,55,6.2,Wheat
+Ladakh,Rabi,18.0,110.0,72,32,50,6.1,Barley
+Ladakh,Rabi,17.5,100.0,60,28,45,6.0,Mustard
+Ladakh,Rabi,19.0,115.0,65,30,48,6.1,Gram
+Ladakh,Zaid,26.0,85.0,70,32,52,6.3,Watermelon
+Ladakh,Zaid,26.5,80.0,68,33,51,6.2,Muskmelon
+Ladakh,Zaid,25.5,75.0,65,30,50,6.2,Cucumber
+Ladakh,Zaid,27.0,88.0,72,34,54,6.3,Tomato
+Lakshadweep,Kharif,30.5,1600.0,40,20,50,5.5,Coconut
+Lakshadweep,Kharif,31.0,1650.0,90,40,60,5.8,Rice
+Lakshadweep,Kharif,30.0,1550.0,55,30,60,5.6,Banana
+Lakshadweep,Rabi,28.5,180.0,35,18,48,5.5,Coconut
+Lakshadweep,Rabi,28.0,170.0,85,38,58,5.8,Rice
+Lakshadweep,Rabi,27.5,165.0,50,28,55,5.6,Banana
+Lakshadweep,Zaid,29.0,95.0,70,32,52,5.8,Watermelon
+Lakshadweep,Zaid,29.5,90.0,68,33,51,5.7,Muskmelon
+Lakshadweep,Zaid,28.5,88.0,66,31,50,5.7,Cucumber
+Lakshadweep,Zaid,29.5,93.0,72,34,54,5.8,Tomato
+Puducherry,Kharif,32.0,780.0,90,40,60,6.8,Rice
+Puducherry,Kharif,31.0,740.0,65,34,50,6.6,Groundnut
+Puducherry,Kharif,32.5,790.0,75,36,55,6.6,Cotton
+Puducherry,Rabi,28.5,180.0,85,38,58,6.6,Rice
+Puducherry,Rabi,27.0,160.0,65,30,48,6.5,Gram
+Puducherry,Rabi,28.0,170.0,60,28,45,6.5,Mustard
+Puducherry,Zaid,29.0,95.0,70,32,52,6.6,Watermelon
+Puducherry,Zaid,29.5,90.0,68,33,51,6.5,Muskmelon
+Puducherry,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Puducherry,Zaid,29.5,93.0,72,34,54,6.6,Tomato
+Andaman and Nicobar Islands,Kharif,30.5,2200.0,40,20,50,5.5,Coconut
+Andaman and Nicobar Islands,Kharif,31.0,2250.0,90,40,60,5.8,Rice
+Andaman and Nicobar Islands,Kharif,30.0,2150.0,55,30,60,5.6,Banana
+Andaman and Nicobar Islands,Rabi,28.5,180.0,35,18,48,5.5,Coconut
+Andaman and Nicobar Islands,Rabi,28.0,170.0,85,38,58,5.8,Rice
+Andaman and Nicobar Islands,Rabi,27.5,165.0,50,28,55,5.6,Banana
+Andaman and Nicobar Islands,Zaid,29.0,95.0,70,32,52,5.8,Watermelon
+Andaman and Nicobar Islands,Zaid,29.5,90.0,68,33,51,5.7,Muskmelon
+Andaman and Nicobar Islands,Zaid,28.5,88.0,66,31,50,5.7,Cucumber
+Andaman and Nicobar Islands,Zaid,29.5,93.0,72,34,54,5.8,Tomato
+Goa,Kharif,31.5,2630.0,90,40,60,6.5,Rice
+Goa,Kharif,30.5,2500.0,65,34,50,6.4,Groundnut
+Goa,Kharif,32.0,2700.0,75,36,55,6.6,Cotton
+Goa,Kharif,30.0,2550.0,40,20,50,6.3,Coconut
+Goa,Kharif,29.5,2400.0,35,18,48,6.2,Cashew
+Goa,Rabi,28.5,180.0,85,38,58,6.6,Rice
+Goa,Rabi,27.0,160.0,60,30,50,6.5,Groundnut
+Goa,Rabi,28.0,170.0,72,32,50,6.5,Cotton
+Goa,Rabi,27.5,165.0,35,18,48,6.4,Coconut
+Goa,Zaid,29.0,95.0,70,32,52,6.6,Watermelon
+Goa,Zaid,29.5,90.0,68,33,51,6.5,Muskmelon
+Goa,Zaid,28.5,88.0,66,31,50,6.5,Cucumber
+Goa,Zaid,29.5,93.0,72,34,54,6.6,Tomato

@@ -1,0 +1,298 @@
+1. Uttar Pradesh
+
+Kharif: Rice, Maize, Arhar, Moong, Urad, Groundnut, Soybean, Cotton, Bajra, Jowar
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas, Potato, Onion, Lentil, Rapeseed
+
+Zaid: Watermelon, Muskmelon, Cucumber, Bottle Gourd, Bitter Gourd, Tomato, Okra
+
+2. Punjab
+
+Kharif: Rice, Cotton, Maize, Groundnut, Bajra
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+3. Haryana
+
+Kharif: Rice, Cotton, Maize, Groundnut, Bajra
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+4. Madhya Pradesh
+
+Kharif: Rice, Maize, Soybean, Cotton, Groundnut, Bajra, Jowar
+
+Rabi: Wheat, Barley, Gram, Mustard, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+5. Rajasthan
+
+Kharif: Bajra, Cotton, Maize, Groundnut, Jowar
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+6. Maharashtra
+
+Kharif: Rice, Cotton, Soybean, Groundnut, Maize, Sugarcane, Jowar
+
+Rabi: Wheat, Barley, Gram, Mustard, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato, Okra
+
+7. Gujarat
+
+Kharif: Cotton, Groundnut, Rice, Maize, Bajra
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+8. Bihar
+
+Kharif: Rice, Maize, Arhar, Groundnut, Jute
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+9. West Bengal
+
+Kharif: Rice, Maize, Jute, Groundnut, Sugarcane
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+10. Odisha
+
+Kharif: Rice, Maize, Groundnut, Cotton, Jute
+
+Rabi: Wheat, Barley, Gram, Mustard, Peas, Lentil
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+11. Assam
+
+Kharif: Rice, Maize, Jute, Groundnut, Sugarcane, Tea
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+12. Kerala
+
+Kharif: Rice, Coconut, Groundnut, Banana, Tapioca
+
+Rabi: Rice, Coconut, Banana
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato, Okra
+
+13. Tamil Nadu
+
+Kharif: Rice, Groundnut, Cotton, Maize, Sugarcane, Banana, Tapioca
+
+Rabi: Rice, Groundnut, Cotton, Banana
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato, Okra
+
+14. Karnataka
+
+Kharif: Rice, Maize, Groundnut, Cotton, Sugarcane, Ragi, Jowar
+
+Rabi: Rice, Maize, Groundnut, Cotton
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato, Okra
+
+15. Andhra Pradesh
+
+Kharif: Rice, Cotton, Groundnut, Maize, Sugarcane, Banana
+
+Rabi: Rice, Cotton, Groundnut, Banana
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato, Okra
+
+16. Telangana
+
+Kharif: Rice, Cotton, Groundnut, Maize, Sugarcane, Soybean
+
+Rabi: Rice, Cotton, Groundnut
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato, Okra
+
+17. Chhattisgarh
+
+Kharif: Rice, Maize, Soybean, Groundnut, Jowar
+
+Rabi: Wheat, Barley, Gram, Mustard, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+18. Jharkhand
+
+Kharif: Rice, Maize, Groundnut, Jute, Arhar
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+19. Uttarakhand
+
+Kharif: Rice, Maize, Groundnut, Ragi, Soybean
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+20. Himachal Pradesh
+
+Kharif: Rice, Maize, Groundnut, Apple, Peach, Plum
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+21. Jammu & Kashmir
+
+Kharif: Rice, Maize, Groundnut, Apple, Pear, Plum
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+22. Arunachal Pradesh
+
+Kharif: Rice, Maize, Groundnut, Millet, Soybean
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+23. Nagaland
+
+Kharif: Rice, Maize, Groundnut, Millet
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+24. Manipur
+
+Kharif: Rice, Maize, Groundnut, Millet
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+25. Mizoram
+
+Kharif: Rice, Maize, Groundnut, Millet
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+26. Tripura
+
+Kharif: Rice, Maize, Groundnut, Jute, Sugarcane
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+27. Meghalaya
+
+Kharif: Rice, Maize, Groundnut, Jute
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+28. Sikkim
+
+Kharif: Rice, Maize, Groundnut, Millet
+
+Rabi: Wheat, Barley, Mustard, Gram, Peas
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+Union Territories
+29. Chandigarh
+
+Kharif: Maize, Rice, Cotton
+
+Rabi: Wheat, Barley, Mustard, Gram
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+30. Dadra & Nagar Haveli and Daman & Diu
+
+Kharif: Rice, Groundnut, Cotton
+
+Rabi: Wheat, Gram, Mustard
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+31. Delhi (NCT)
+
+Kharif: Maize, Rice, Cotton
+
+Rabi: Wheat, Barley, Mustard, Gram
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+32. Ladakh
+
+Kharif: Barley, Maize, Peas, Potato
+
+Rabi: Wheat, Barley, Mustard, Gram
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+33. Lakshadweep
+
+Kharif: Coconut, Rice, Banana
+
+Rabi: Coconut, Rice, Banana
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+34. Puducherry
+
+Kharif: Rice, Groundnut, Cotton
+
+Rabi: Rice, Gram, Mustard
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+35. Andaman & Nicobar Islands
+
+Kharif: Coconut, Rice, Banana
+
+Rabi: Coconut, Rice, Banana
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+36. Goa
+
+Kharif: Rice, Groundnut, Cotton, Coconut, Cashew
+
+Rabi: Rice, Groundnut, Cotton, Coconut
+
+Zaid: Watermelon, Muskmelon, Cucumber, Tomato
+
+
+
+
+
+
+Data sources - 
+1. Agricultural Statistics at a Glance - https://desagri.gov.in/
+2. India State Agriculture Production Data - https://www.opendatabay.com/data/ai-ml/64a0af9d-52c8-4c9f-8e9b-a172e4c9e9cd
+3. State-wise Crop Production Data - https://www.kaggle.com/datasets/thedevastator/statewise-crop-production-in-india-a-statistical

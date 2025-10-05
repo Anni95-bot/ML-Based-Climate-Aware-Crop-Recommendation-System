@@ -1,0 +1,103 @@
+sources of datasets - 2010 to 2024
+
+1. India Meteorological Department (IMD) - https://mausam.imd.gov.in/   : To get district wise data
+
+2. Open Government Data (OGD) Platform India - https://www.data.gov.in/catalog/rainfall-india : To get data, verify data
+
+3. Indiastat - Indiastat.com : To collect some state data
+
+4. Some state level dashbboard - To get the data which not find properly and to verify details
+
+
+Data divided as - 
+
+Kharif: June-September
+Rabi: October-March
+Zaid: April-May
+
+
+
+
+
+Formula and calculations - 
+
+
+
+
+1 . Climate Score=1−(Temp Difference+Rain Difference​)/2
+
+    Where 
+    Temp Difference=(District Temp − Crop Ideal Temp​)/Temp Range
+    Rain Difference=(District Rain − Crop Ideal Rain)/Rain Range
+
+    Where
+    Temp Range = max temp - min temp (among all crops in that season)
+    Rain Range = max rain - min rain
+
+    ClimateScore% = ClimateScore  × 100
+
+
+2.  Soil Score = 1−(Ndiff ​+Pdiff ​+Kdiff​ +PHdiff​​)/4
+     
+    Where
+    Ndiff​=​(Nuser​−Ncrop​)/Nrange
+    Pdiff​=​(Puser​−Pcrop​)/Prange
+    Kdiff​=​(Kuser​−Kcrop​)/Krange
+    PHdiff​=​(PHuser​−PHcrop​)/PHrange
+    
+    Where 
+    N_range, P_range, K_range, PH_range = max - min of each in crop dataset
+
+    SoilScore% = SoilScore  × 100
+
+3. SuccessRate = (ClimateScore × 0.6) + (SoilScore × 0.4)
+
+
+
+Why 0.6 and 0.4 specifically?
+
+0.6 + 0.4 = 1 → total weight = 100%
+
+0.6 → 60% of the final score comes from climate - As climate is main factor in crops
+
+0.4 → 40% comes from soil
+
+
+
+
+Example calculations -
+
+District climate & user soil:
+
+District Temp (Kharif) = 31°C
+
+District Rain (Kharif) = 700 mm
+
+Soil N = 60, P = 35, K = 45, PH = 6.6
+
+Crop ideal values (from crop.csv for Rice):
+
+Crop Temp = 32°C
+
+Crop Rain = 850 mm
+
+Crop N = 90, P = 40, K = 60, PH = 6.8
+
+Crop dataset ranges (for normalization):
+
+Temp: min 29°C, max 33°C → range = 4°C
+
+Rain: min 640 mm, max 850 mm → range = 210 mm
+
+N: min 42, max 90 → range = 48
+
+P: min 26, max 40 → range = 14
+
+K: min 36, max 60 → range = 24
+
+PH: min 6.5, max 6.8 → range = 0.3
+
+
+Climate Score %: 0.518 * 100 ≈ 51.8%
+Soil Score %:  0.4315 * 100 ≈ 43.15%
+Success Rate = 0.6 * 0.518 + 0.4 * 0.4315 = 48.3%
