@@ -1,0 +1,7 @@
+# Execute below code to install all dependencies
+# pip install -r requirements.txt
+
+streamlit
+joblib
+numpy
+pandas
